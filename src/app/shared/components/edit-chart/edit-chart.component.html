@@ -1,0 +1,24 @@
+<h1 mat-dialog-title>Edit chart</h1>
+<div mat-dialog-content content>
+
+	<mat-form-field appearance="fill">
+		<mat-label>Chart type</mat-label>
+		<mat-select>
+			<mat-option value="area">area</mat-option>
+			<mat-option value="line">line</mat-option>
+			<mat-option value="spline">spline</mat-option>
+		</mat-select>
+	</mat-form-field>
+	<mat-form-field appearance="fill">
+		<mat-label>Chart color</mat-label>
+		<mat-select>
+			<mat-option value="blue">blue</mat-option>
+			<mat-option value="red">red</mat-option>
+			<mat-option value="green">green</mat-option>
+		</mat-select>
+	</mat-form-field>
+</div>
+<div mat-dialog-actions>
+	<button mat-button mat-dialog-close>Close</button>
+	<button mat-button>Save</button>
+</div>

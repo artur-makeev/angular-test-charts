@@ -1,0 +1,116 @@
+{
+	"chartList": [
+		{
+			"chartType": "line",
+			"chartName": "Chart Title 1",
+			"yAxisTitle": "Number of Employees",
+			"seriesData": [
+				[
+					1641410460000,
+					29.9
+				],
+				[
+					1649272860000,
+					10
+				],
+				[
+					1655320860000,
+					50
+				]
+			],
+			"rangeDescription": "Range: 2010 to 2020",
+			"seriesName": "Installation & Developers",
+			"seriesColor": "red",
+			"xAsixtype": "datetime"
+		},
+		{
+			"chartType": "bar",
+			"chartName": "Chart Title 2",
+			"yAxisTitle": "Number of Employees",
+			"seriesData": [
+				[
+					1641410460000,
+					29.9
+				],
+				[
+					1649272860000,
+					10
+				],
+				[
+					1655320860000,
+					50
+				]
+			],
+			"rangeDescription": "Range: 2010 to 2020",
+			"seriesName": "Installation & Developers",
+			"seriesColor": "blue",
+			"xAsixtype": "datetime"
+		},
+		{
+			"chartType": "area",
+			"chartName": "Chart Title 3",
+			"yAxisTitle": "Number of Employees",
+			"seriesData": [
+				[
+					1641410460000,
+					29.9
+				],
+				[
+					1649272860000,
+					10
+				],
+				[
+					1655320860000,
+					50
+				]
+			],
+			"rangeDescription": "Range: 2010 to 2020",
+			"seriesName": "Installation & Developers",
+			"xAsixtype": "datetime"
+		},
+		{
+			"chartType": "area",
+			"chartName": "Chart Title 4",
+			"yAxisTitle": "Number of Employees",
+			"seriesData": [
+				[
+					1641410460000,
+					29.9
+				],
+				[
+					1649272860000,
+					10
+				],
+				[
+					1655320860000,
+					50
+				]
+			],
+			"rangeDescription": "Range: 2010 to 2020",
+			"seriesName": "Installation & Developers",
+			"xAsixtype": "datetime"
+		},
+		{
+			"chartType": "line",
+			"chartName": "Chart Title 5",
+			"yAxisTitle": "Number of Employees",
+			"seriesData": [
+				[
+					1641410460000,
+					29.9
+				],
+				[
+					1649272860000,
+					10
+				],
+				[
+					1655320860000,
+					50
+				]
+			],
+			"rangeDescription": "Range: 2010 to 2020",
+			"seriesName": "Series Name",
+			"xAsixtype": "datetime"
+		}
+	]
+}

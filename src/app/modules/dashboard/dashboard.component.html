@@ -1,0 +1,8 @@
+<div *ngIf="show">
+	<app-date-range></app-date-range>
+</div>
+<div fxLayout="row wrap" fxLayoutGap="20px">
+	<mat-card class="margin-bot" *ngFor="let data of charts; let i - index;">
+		<app-graph [data]="data"></app-graph>
+	</mat-card>
+</div>
